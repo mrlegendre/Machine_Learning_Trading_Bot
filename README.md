@@ -1,5 +1,5 @@
 # Machine_Learning_Trading_Bot
-Creating an algorithmic trading bot that learns and adapts to new data and evolving markets by enhancing existing trading signals with machine learning
+The jupyter notebook file "machine_learning_trading_bot.ipynb" creates an algorithmic trading bot that learns and adapts to new data and evolving markets by enhancing existing trading signals with machine learning
 
 # Part 1 - Establish a Baseline Performance
 
