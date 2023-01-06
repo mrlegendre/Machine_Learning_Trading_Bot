@@ -1,6 +1,8 @@
 # Machine_Learning_Trading_Bot
 The jupyter notebook file "machine_learning_trading_bot.ipynb" creates an algorithmic trading bot that learns and adapts to new data and evolving markets by enhancing existing trading signals with machine learning
 
+The CSV file in the Resources folder contains OHLCV data for an MSCI–based emerging markets ETF that iShares issued. Investments in emerging markets make up an important aspect of a well-diversified investment portfolio. This is because the included equities have potentially higher long-term returns, even though they carry more risk.
+
 # Part 1 - Establish a Baseline Performance
 
 This first graph shows a cumulative return plot that shows the actual returns vs. the strategy returns for the SVM model
